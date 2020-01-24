@@ -1,18 +1,18 @@
 # A simple chat console application
 
-##Compile##
+## Compile ##
 
-gcc server.c -o server
+`gcc server.c -o server`
 
-gcc client.c -o client
+`gcc client.c -o client`
 
 
-##Run##
+## Run ##
 
 Run program in two seperate terminal emulator
  
-sudo ./server 
+`sudo ./server` 
 
-./client
+`./client`
 
 
