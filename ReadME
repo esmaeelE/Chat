@@ -1,13 +1,13 @@
-#A simple chat console application
+#A simple chat console application#
 
-##Compile
+##Compile##
 
 gcc server.c -o server
 
 gcc client.c -o client
 
 
-##Run
+##Run##
 
 Run program in two seperate terminal emulator
  
