@@ -18,7 +18,7 @@
 
 
 #include <limits.h>
-
+// to int funct
 int toInt(char *str){
 		
 	char* p;
